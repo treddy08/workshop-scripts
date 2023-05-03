@@ -9,7 +9,7 @@ HOMEROOM_NAME=homeroom
 WORKSHOP_TITLE=
 WORKSHOP_DESCRIPTION=
 
-SPAWNER_REPO=openshift-homeroom/workshop-spawner
+SPAWNER_REPO=treddy08/workshop-spawner
 SPAWNER_VERSION=7.1.0
 SPAWNER_MODE=learning-portal
 SPAWNER_VARIANT=production
